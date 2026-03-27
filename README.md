@@ -11,56 +11,80 @@
 - 📈 Learning daily & improving problem-solving skills
 - ⚡ Goal: Become a top-tier AI Engineer
 
----
-
 🚀 Tech Stack
 
-👨‍💻 Programming
+👨‍💻 Programming Languages
 
-- Python 🐍
-- JavaScript
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ---
 
-🧠 AI / ML
+🧠 AI / Machine Learning
 
-- NumPy, Pandas, Matplotlib
-- Scikit-learn
-- NLP (TF-IDF, Tokenization)
-- RAG, Embeddings
+"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+"Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+"NLP" (https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
+"TF-IDF" (https://img.shields.io/badge/TF--IDF-000000?style=for-the-badge)
+"Embeddings" (https://img.shields.io/badge/Embeddings-000000?style=for-the-badge)
+"RAG" (https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+
+---
+
+🤖 AI Tools / Frameworks
+
+"LangChain" (https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+"HuggingFace" (https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 
 ---
 
 🌐 Web Development
 
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+"TailwindCSS" (https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ---
 
-⚙️ Backend
+⚙️ Backend Development
 
-- Node.js, Express.js
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+"Express.js" (https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
 ---
 
 🗄️ Databases
 
-- MongoDB, MySQL
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 
 🛠️ Tools & Platforms
 
-- Git, GitHub
-- VS Code
-- Jupyter Notebook
-- Postman
-- Render
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+"Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+"Render" (https://img.shields.io/badge/Render-000000?style=for-the-badge)
 
 ---
 
+⚡ Concepts & Skills
+
+- Data Structures & Algorithms
+- REST APIs
+- Machine Learning Basics
+- Data Preprocessing
+- Model Evaluation
+- Backend Integration
 🧩 Featured Projects
 
 🔹 AI RAG Recommendation System
