@@ -118,15 +118,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -136,6 +127,3 @@
 ---
 
 🔥 *"Code. Build. Learn. Repeat."*
-
-
-🔥 "Code. Build. Learn. Repeat."
