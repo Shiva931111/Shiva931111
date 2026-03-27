@@ -1,126 +1,141 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">🚀 AI/ML Engineer in Progress | Full Stack Developer</h3><p align="center">
+<h3 align="center">🚀 AI/ML Engineer in Progress | Full Stack Developer</h3>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Developer;Full%20Stack%20Engineer;RAG%20Builder;Always%20Learning...&center=true&width=500&height=50">
-</p>---
-
-🧠 About Me
-
-- 🎓 Engineering Student passionate about AI, ML & Web Development
-- 🤖 Building RAG (Retrieval-Augmented Generation) systems
-- 💡 Turning ideas into real-world intelligent applications
-- 📈 Learning daily & improving problem-solving skills
-- ⚡ Goal: Become a top-tier AI Engineer
-
-🚀 Tech Stack
-
-👨‍💻 Programming Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+</p>
 
 ---
 
-🧠 AI / Machine Learning
+## 🧠 About Me
 
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
-"Scikit-Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-"NLP" (https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
-"TF-IDF" (https://img.shields.io/badge/TF--IDF-000000?style=for-the-badge)
-"Embeddings" (https://img.shields.io/badge/Embeddings-000000?style=for-the-badge)
-"RAG" (https://img.shields.io/badge/RAG-000000?style=for-the-badge)
+* 🎓 Engineering Student passionate about **AI, ML & Web Development**
+* 🤖 Building **RAG (Retrieval-Augmented Generation) systems**
+* 💡 Turning ideas into **real-world intelligent applications**
+* 📈 Learning daily & improving problem-solving skills
+* ⚡ Goal: Become a **top-tier AI Engineer**
 
 ---
 
-🤖 AI Tools / Frameworks
+## 🚀 Tech Stack
 
-"LangChain" (https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-"HuggingFace" (https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+### 👨‍💻 Programming Languages
 
----
-
-🌐 Web Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-"TailwindCSS" (https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ---
 
-⚙️ Backend Development
+### 🧠 AI / Machine Learning
 
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-"Express.js" (https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
----
-
-🗄️ Databases
-
-"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge\&logoColor=white)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-000000?style=for-the-badge\&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-000000?style=for-the-badge\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge\&logoColor=white)
 
 ---
 
-🛠️ Tools & Platforms
+### 🤖 AI Tools / Frameworks
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-"Jupyter" (https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-"Render" (https://img.shields.io/badge/Render-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logoColor=white)
 
 ---
 
-⚡ Concepts & Skills
+### 🌐 Web Development
 
-- Data Structures & Algorithms
-- REST APIs
-- Machine Learning Basics
-- Data Preprocessing
-- Model Evaluation
-- Backend Integration
-🧩 Featured Projects
-
-🔹 AI RAG Recommendation System
-
-- LLM + embeddings based system
-- Context-aware responses
-- Backend API + real-time processing
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ---
 
-🔹 Developer Portfolio
+### ⚙️ Backend Development
 
-- Responsive modern UI
-- Clean animations
-- Fully deployed
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 
 ---
 
-📊 GitHub Stats
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge\&logoColor=white)
+
+---
+
+### ⚡ Concepts & Skills
+
+* Data Structures & Algorithms
+* REST APIs
+* Machine Learning Basics
+* Data Preprocessing
+* Model Evaluation
+* Backend Integration
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 AI RAG Recommendation System
+
+* LLM + embeddings based system
+* Context-aware responses
+* Backend API + real-time processing
+
+---
+
+### 🔹 Developer Portfolio
+
+* Responsive modern UI
+* Clean animations
+* Fully deployed
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>---
+</p>
 
-🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
-</p>---
-
-🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/shiva-golum-037a69349?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🌍 Portfolio: https://shiva-ai-portfolio.netlify.app/
+</p>
 
 ---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/shiva-golum-037a69349
+* 🌍 Portfolio: https://shiva-ai-portfolio.netlify.app/
+
+---
+
+🔥 *"Code. Build. Learn. Repeat."*
+
 
 🔥 "Code. Build. Learn. Repeat."
